@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
 # Logs
+
 logs
 *.log
 npm-debug.log*
@@ -61,4 +62,7 @@ typings/
 
 # next.js build output
 .next
+
+
+
 
